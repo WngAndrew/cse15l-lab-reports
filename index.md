@@ -1,6 +1,6 @@
 Hi
 *Italic*
-**bold*
+**bold**
 # heading 1
 ## heading 2
 [https://github.com/WngAndrew/cse15l-lab-reports/edit/main/index.md]
